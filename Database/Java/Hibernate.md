@@ -1,0 +1,2 @@
+
+Hibernate is a powerful Object-Relational Mapping (ORM) framework for Java that implements the [[JPA]] specification. It provides a way to map Java objects to database tables and vice versa, allowing developers to work with Java objects in their code while Hibernate handles the translation of these objects into SQL queries and makes the code more readable and maintainable.

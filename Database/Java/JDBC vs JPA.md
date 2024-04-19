@@ -1,0 +1,3 @@
+JPA is an abstraction over JDBC that provides object-relational mapping capabilities. It simplifies the process of persisting Java objects to a database and querying the database in an object-oriented way. JDBC, on the other hand, is a lower-level API that requires more boilerplate code and manual management of database connections and resources.
+
+JPA implementations, such as [[Hibernate]], EclipseLink, or OpenJPA, rely on JDBC to execute SQL queries and manage database connections.
